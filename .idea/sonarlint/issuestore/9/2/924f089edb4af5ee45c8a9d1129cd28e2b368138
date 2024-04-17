@@ -1,0 +1,19 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡£›¦üÿÿÿÿ8½זעמ1J$6aa7fb71-7d30-437e-a3d9-b7ec7a25863a
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—שÿׂ8½זעמ1J$71d5b087-cf7d-44b4-bfbe-04f1c3b859d2
+]
+java:S1220""Move this file to a named package.8½זעמ1J$94bed455-9364-4ec7-bdff-2a67f0a5209e
+t
+java:S1481",Remove this unused "numeroA" local variable.(±ניֻüÿÿÿÿ8לזעמ1J$aaced590-818e-4e82-aa64-3def18a9d9db
+t
+java:S1481",Remove this unused "numeroB" local variable.(טּךüÿÿÿÿ8לזעמ1J$23c2e049-a38d-4f64-9086-6740304460af
+r
+java:S1481"*Remove this unused "signo" local variable.(ײױםג‏ÿÿÿÿ8לזעמ1J$70f26195-d219-4c05-87f7-f7c7ed72a4be
+m
+java:S3457	"%String contains no format specifiers.(×„‎ÿÿÿÿ8לזעמ1J$31ba0d2d-171d-402e-96a8-16c266122ac4
+r	java:S106	"+Replace this use of System.out by a logger.(×„‎ÿÿÿÿ8לזעמ1J$3e8d472f-b441-4165-b4a4-f952b58ee942
+r	java:S106"+Replace this use of System.out by a logger.(­ֳרתתÿÿÿÿ8ûזעמ1J$ff90f666-8f60-4951-9122-8bed0ca50709
+m	java:S106"+Replace this use of System.out by a logger.(ר€™¿8ûזעמ1J$784cd5f1-c257-4968-89de-d82727f28b55
+r	java:S106"+Replace this use of System.out by a logger.(¸ֹ₪ײÿÿÿÿÿ8ûזעמ1J$b3afd28e-970f-4147-960f-c8abe6a0a77a
+r	java:S106"+Replace this use of System.out by a logger.(לˆüֳשÿÿÿÿ8ûזעמ1J$e68570df-80f1-450e-aed9-eb80e069a25e
